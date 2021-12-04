@@ -1,9 +1,8 @@
 ## About Me
 Full-stack software engineer currently focused on web applications built in JavaScript/TypeScript and .NET.
-- JS/TS
-  - React
-  - Angular
-  - Next.JS
+
+![React](https://img.shields.io/static/v1?message=React&logo=react&labelColor=282c34&color=61dafb&logoColor=61dafb&label=%20)
+![Angular](https://img.shields.io/static/v1?message=Angular&logo=angular&labelColor=e23237&color=303030&label=%20)
 - .NET
   - NServiceBus
   - .NET Core
