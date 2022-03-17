@@ -20,7 +20,5 @@ Full-stack software engineer currently focused on web applications built in Java
 &nbsp;&nbsp;
 ![AWS](https://img.shields.io/static/v1?message=AWS&logo=amazonaws&labelColor=262262&color=232F3E&label=%20)
 
-Member of the Technology Leadership Development Program (TLDP) at [Travelers](https://www.travelers.com/).
-
 ## Get in Touch
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/evan-cohen/)
