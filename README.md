@@ -11,7 +11,7 @@ Full-stack software engineer currently focused on web applications built in Java
 ### Backend
 ![.NET Core](https://img.shields.io/static/v1?message=.NET%20Core&logo=.net&labelColor=512bd4&color=f0f0f0&label=%20)
 &nbsp;&nbsp;
-![C#](https://img.shields.io/static/v1?message=C%23%209%2B&logo=csharp&labelColor=239120&color=f0f0f0&label=%20)
+![C-Sharp](https://img.shields.io/static/v1?message=C%23%209%2B&logo=csharp&labelColor=239120&color=f0f0f0&label=%20)
 &nbsp;&nbsp;
 ![Node.js](https://img.shields.io/static/v1?message=Node.js&logo=node.js&labelColor=282c34&color=339933&label=%20)
 
